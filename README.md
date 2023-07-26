@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SPACSSHawa
-- 🌱 I’m currently learning python（摆烂~）
+- 👋 Hi, I’m `@SPACSSHawa`
+- 🌱 I’m currently learning `python（摆烂~）`
 - 📫 How to reach me :[ BiliBili ](https://space.bilibili.com/3461564210350171)
  
 <!---
